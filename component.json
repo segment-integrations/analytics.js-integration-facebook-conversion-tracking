@@ -2,7 +2,7 @@
   "name": "analytics.js-integration-facebook-conversion-tracking",
   "repo": "segment-integrations/analytics.js-integration-facebook-conversion-tracking",
   "description": "The Facebook Conversion Tracking analytics.js integration.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
